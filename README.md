@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src=[[D:\Downloads\dddd (1).jpg](https: />
+  <img src="https://raw.githubusercontent.com/D-Handles/D-Handles/main/dddd.jpg" width="100%" />
 </p>
 
 <!--
