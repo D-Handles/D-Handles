@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/D-Handles/D-Handles/main/dddd.jpg" width="100%" />
 </p>
