@@ -19,3 +19,18 @@
 <p align="center" style="margin-top:-10px;">
   <img src="https://img.shields.io/badge/🚀%20ROLE-2b2b2b?style=for-the-badge"/><a href="https://devthugs.free.laravel.cloud/" target="_blank"><img src="https://img.shields.io/badge/3D%20Modeler%20%2F%20Graphic%20Designer-000814?style=for-the-badge&logo=blender&logoColor=white"/></a>
 </p>
+<p align="center">
+
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-000814?style=for-the-badge&logo=facebook&logoColor=ff2d55&labelColor=000814"/>
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/EMAIL-000814?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=000814"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000814?style=for-the-badge&logo=instagram&logoColor=ff006e&labelColor=000814"/>
+</a>
+
+</p>
