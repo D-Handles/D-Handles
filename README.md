@@ -17,26 +17,25 @@
   </a><a href="https://devthugs.free.laravel.cloud/" target="_blank">
     <img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
-</p>>
 <p align="center">
 
   <!-- FACEBOOK -->
   <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <!-- INSTAGRAM -->
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 
   <!-- GMAIL -->
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
