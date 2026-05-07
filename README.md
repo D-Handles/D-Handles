@@ -8,8 +8,6 @@
     alt="Typing SVG" 
   />
 
-
-
 <p align="center">
 
   <!-- ROLE BADGE -->
