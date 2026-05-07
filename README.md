@@ -34,3 +34,18 @@
 </a>
 
 </p>
+<p align="center">
+
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-000814?style=for-the-badge&logo=facebook&logoColor=ff2d55&labelColor=000814"/>
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/EMAIL-000814?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=000814"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000814?style=for-the-badge&logo=instagram&logoColor=ff006e&labelColor=000814"/>
+</a>
+
+</p>
