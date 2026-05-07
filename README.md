@@ -7,29 +7,30 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=DevThugs+Company;3D+Modeler+%2F+Graphic+Designer" 
     alt="Typing SVG" 
   />
-
+<!-- ===================== DEVTHUGS SECTION ===================== -->
 <p align="center">
 
-  <!-- ROLE BADGE -->
-  <img src="https://img.shields.io/badge/🚀%20ROLE-2b2b2b?style=for-the-badge"/>
+  <!-- DEVTHUGS BADGE -->
+  <img src="https://img.shields.io/badge/🎯%20DEVTHUGS-3a3a3a?style=for-the-badge"/>
 
-  <!-- CLICKABLE WEBSITE BUTTON -->
-  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/3D%20Modeler%20%2F%20Graphic%20Designer-000814?style=for-the-badge&logo=blender&logoColor=white"/>
+  <!-- CLICKABLE OFFICIAL WEBSITE BUTTON -->
+  <a href="https://devthugs.free.laravel.cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
 
 </p>
 
 <br>
 
+<!-- ===================== ROLE SECTION ===================== -->
 <p align="center">
 
-  <!-- DEVTHUGS BADGE -->
-  <img src="https://img.shields.io/badge/🎯%20DEVTHUGS-3a3a3a?style=for-the-badge"/>
+  <!-- ROLE BADGE -->
+  <img src="https://img.shields.io/badge/🚀%20ROLE-2b2b2b?style=for-the-badge"/>
 
-  <!-- OFFICIAL WEBSITE BUTTON -->
-  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  <!-- CLICKABLE ROLE WEBSITE BUTTON -->
+  <a href="https://devthugs.free.laravel.cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Modeler%20%2F%20Graphic%20Designer-000814?style=for-the-badge&logo=blender&logoColor=white"/>
   </a>
 
 </p>
