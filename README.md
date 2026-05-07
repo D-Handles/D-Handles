@@ -11,7 +11,7 @@
 <p align="center">
   <img 
     src="https://img.shields.io/badge/🎯%20DEVTHUGS-3a3a3a?style=for-the-badge"
-    style="margin-right:-2px;"
+    style="margin-right:-10px;"
   /><a href="https://devthugs.free.laravel.cloud/" target="_blank"><img 
     src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
   /></a>
