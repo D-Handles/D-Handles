@@ -15,7 +15,7 @@
 
   <!-- CLICKABLE WEBSITE BUTTON -->
   <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/CTO%20@%20DEVTHUGS-000814?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/3D%20Modeler%20%2F%20Graphic%20Designer-000814?style=for-the-badge&logo=blender&logoColor=white"/>
   </a>
 
 </p>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/🎯%20DEVTHUGS-3a3a3a?style=for-the-badge"/>
 
   <!-- OFFICIAL WEBSITE BUTTON -->
-  <a href="(https://devthugs.free.laravel.cloud/)" target="_blank">
+  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/OFFICIAL%20WEBSITE-000814?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
 
