@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/FACEBOOK-000814?style=for-the-badge&logo=facebook&logoColor=ff2d55&labelColor=000814"/>
 </a>
 
-<a href="[mailto:your@email.com](https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act)" target="-blank">
+<a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-000814?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=000814"/>
 </a>
 
