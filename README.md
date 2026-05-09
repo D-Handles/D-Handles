@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/EMAIL-000814?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=000814"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.instagram.com/dayland29/" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-000814?style=for-the-badge&logo=instagram&logoColor=ff006e&labelColor=000814"/>
 </a>
 
