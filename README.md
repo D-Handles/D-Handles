@@ -33,4 +33,33 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-000814?style=for-the-badge&logo=instagram&logoColor=ff006e&labelColor=000814"/>
 </a>
 
+<!-- GitHub README Streak / Contribution Stats Section -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<h1>154</h1>
+<p><b>Total Contributions</b></p>
+<p>Nov 19, 2024 - Present</p>
+</td>
+
+<td align="center">
+<h1>🔥 8</h1>
+<p><b>Current Streak</b></p>
+<p>May 3 - May 10</p>
+</td>
+
+<td align="center">
+<h1>11</h1>
+<p><b>Longest Streak</b></p>
+<p>Apr 14 - Apr 24</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
