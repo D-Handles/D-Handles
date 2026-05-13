@@ -60,5 +60,13 @@
 
 </div>
 
+## 📈 GitHub Contribution Graph
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+
+### 📅 Most Active Contribution Days
+
+[![Delan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
 
 
