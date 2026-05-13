@@ -61,5 +61,37 @@
 </div>
 
 
+<!-- SKILLS / BADGES -->
 
+<p align="center">
+  <img src="https://img.shields.io/badge/3D%20MODELING-000814?style=for-the-badge&logo=blender&logoColor=f5792a&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/GRAPHIC%20DESIGN-000814?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/LARAVEL-000814?style=for-the-badge&logo=laravel&logoColor=ff2d20&labelColor=000814"/>
+</p>
+
+<!-- SOFTWARE TOOLS -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BLENDER-000814?style=for-the-badge&logo=blender&logoColor=f5792a&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/PHOTOSHOP-000814?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-000814?style=for-the-badge&logo=adobeillustrator&logoColor=ff9a00&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/FIGMA-000814?style=for-the-badge&logo=figma&logoColor=f24e1e&labelColor=000814"/>
+</p>
+
+<!-- DEVELOPMENT -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-000814?style=for-the-badge&logo=php&logoColor=777bb4&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/MYSQL-000814?style=for-the-badge&logo=mysql&logoColor=00758f&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000814?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=000814"/>
+  
+  <img src="https://img.shields.io/badge/GIT-000814?style=for-the-badge&logo=git&logoColor=f05032&labelColor=000814"/>
+</p>
 
