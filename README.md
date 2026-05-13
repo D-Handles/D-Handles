@@ -35,7 +35,6 @@
 <!-- GitHub README Streak / Contribution Stats Section -->
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -43,13 +42,11 @@
 <p><b>Total Contributions</b></p>
 <p>Nov 19, 2024 - Present</p>
 </td>
-
 <td align="center">
 <h1>🔥 8</h1>
 <p><b>Current Streak</b></p>
 <p>May 3 - May 10</p>
 </td>
-
 <td align="center">
 <h1>11</h1>
 <p><b>Longest Streak</b></p>
@@ -57,22 +54,14 @@
 </td>
 </tr>
 </table>
-
 </div>
-
-
 <!-- SKILLS / BADGES -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/3D%20MODELING-000814?style=for-the-badge&logo=blender&logoColor=f5792a&labelColor=000814"/>
-  
   <img src="https://img.shields.io/badge/GRAPHIC%20DESIGN-000814?style=for-the-badge&logo=adobephotoshop&logoColor=31a8ff&labelColor=000814"/>
-  
   <img src="https://img.shields.io/badge/LARAVEL-000814?style=for-the-badge&logo=laravel&logoColor=ff2d20&labelColor=000814"/>
 </p>
-
 <!-- SOFTWARE TOOLS -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/BLENDER-000814?style=for-the-badge&logo=blender&logoColor=f5792a&labelColor=000814"/>
   
